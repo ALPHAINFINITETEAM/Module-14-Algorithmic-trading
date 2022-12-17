@@ -34,4 +34,5 @@ plot below is a cumulative return plot which displays the 'Actual Returns' vs 'S
 
 Finally, plot of a new model (Logistic Regression) to evaluate its performance
 
-![image](https://user-images.githubusercontent.com/91399431/208256131-9321f0ae-772a-46ba-ad95-08ac9ec1a8c1.png)
+![image](https://user-images.githubusercontent.com/91399431/208261619-2d7247f7-24b5-460f-bec8-12883e24fb09.png)
+
