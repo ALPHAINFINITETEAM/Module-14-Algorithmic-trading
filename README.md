@@ -36,3 +36,5 @@ Finally, plot of a new model (Logistic Regression) to evaluate its performance
 
 ![image](https://user-images.githubusercontent.com/91399431/208261619-2d7247f7-24b5-460f-bec8-12883e24fb09.png)
 
+All the accuracy scores of the different classification reports show scores between 50 and 55 which suggest I need to keep adjusting the data or try different models while avoiding to overfit the models for a good score.
+
